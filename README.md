@@ -1,6 +1,7 @@
 # DEMOG 88 Immigration: What do the data tell us?
-## UC Berkeley - Fall 2017
-## Instructor: Carl Mason
+### UC Berkeley - Fall 2017
+### Instructor: Carl Mason
+#### UGSI: Elias Castro Hernandez, Austen Zhu and Sierra Park
 
 
 
